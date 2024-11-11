@@ -1,5 +1,3 @@
-# wp-mysql-kustomize
-
 # WordPress MySQL Kubernetes Deployment
 
 This repository contains a Kubernetes-based setup to deploy a **WordPress** website along with a **MySQL** database using Kubernetes resources. The project leverages `kustomization.yaml` for efficient configuration management, allowing for easy deployment and scaling in Kubernetes clusters.
