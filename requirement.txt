@@ -1,0 +1,10 @@
+# Python Packages
+kubernetes==26.1.0
+kustomize-wrapper==0.5.0
+pyyaml==6.0
+requests==2.31.0
+
+# System Requirements (not managed by pip)
+# VirtualBox: Required to run Minikube
+# Minikube: Kubernetes local cluster
+# kubectl: Kubernetes command-line tool
